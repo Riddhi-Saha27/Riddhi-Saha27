@@ -1,10 +1,11 @@
-# Hi
+# Hi there 👋 I'm Riddhi Saha!
 
-I am a **Developer** who loves learning and trying out new ways to build stuff. I have primarily built websites so far and have even worked as a front-end engineering intern. Below are some fun facts about me and what I am currently cooking up 🏆
+I am a junior at GSU who is slowly learning the ways of code. I primarily worked in a hospital as a Software Developer intern. Interested in making web apps, AI, finance, and math
 
-- 🏋️‍♂️ I'm currently working on building and deploying a fitness app.
-- 🚀 I'm currently learning React Native and AWS Lambda
-- 💬 Ask me about anime, sports, or world news.
+- 🇧🇩 Bangladeshi
+- 🏋️‍♂️ I'm currently working on building and deploying a medical database management system web app and machine learning features on my car analysis project.
+- 🚀 I'm currently learning Springboot and AWS
+- 💬 Ask me about sports, tech, gym, anything fun
 - 📢 How to reach me: Instagram
 - 😊 Pronouns: He/Him
-- ⚡ Fun fact: I am from Bangladesh
+- ⚡ Fun fact: Member of my school's Rocket Club writing software to one day have working rockets.
