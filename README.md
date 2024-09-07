@@ -9,3 +9,4 @@ I am a junior at GSU who is slowly learning the ways of code. I primarily worked
 - 📢 How to reach me: Instagram
 - 😊 Pronouns: He/Him
 - ⚡ Fun fact: Member of my school's Rocket Club writing software to one day have working rockets.
+- 🚀 Long way to go... 💪
